@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-video e poema gerado por IAs generativas
+video e poema gerado por IAs generativas.
 
 ## 🤖 Tecnologias Utilizadas:
 
@@ -11,7 +11,7 @@ Microsoft Copilot
 
 ## 🧐 Processo de Criação:
 
-inseri o prompt no Microsoft Copilot pedindo que gerasse um poema com o tema IA e inseri o prompt pedindo que a IA presente no canva gerasse uma imagem de como seria sua aparência: 
+inseri o prompt no Microsoft Copilot pedindo que gerasse um poema com o tema IA e inseri o prompt pedindo que a IA presente no canva gerasse uma imagem de como seria sua aparência.
 
 ## 🚀 Resultados
 
