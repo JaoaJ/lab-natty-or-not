@@ -7,6 +7,7 @@ video e poema gerado por IAs generativas.
 ## 🤖 Tecnologias Utilizadas:
 
 https://ai.invideo.io/
+e
 Microsoft Copilot
 
 ## 🧐 Processo de Criação:
